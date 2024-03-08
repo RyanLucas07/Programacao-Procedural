@@ -1,0 +1,15 @@
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\bin\Debug\net8.0\execicio2.exe
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\bin\Debug\net8.0\execicio2.deps.json
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\bin\Debug\net8.0\execicio2.runtimeconfig.json
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\bin\Debug\net8.0\execicio2.dll
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\bin\Debug\net8.0\execicio2.pdb
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.AssemblyInfoInputs.cache
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.AssemblyInfo.cs
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.csproj.CoreCompileInputs.cache
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.sourcelink.json
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.dll
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\refint\execicio2.dll
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.pdb
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\execicio2.genruntimeconfig.cache
+C:\Users\ryanl\OneDrive\Área de Trabalho\Programacao-Procedural\Listas\lista3\execicio2\obj\Debug\net8.0\ref\execicio2.dll
